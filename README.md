@@ -52,7 +52,7 @@
 依赖：仅 `bash`（以及常规 coreutils / awk / sed）。Ubuntu / Debian / WSL 可直接使用。
 
 ```bash
-git clone https://github.com/HortonWen/solaris-fetch.git
+git clone https://github.com/SEU-CX-RM-Solaris/solaris-fetch.git
 cd solaris-fetch
 sudo install -m 755 solaris-fetch /usr/local/bin/solaris-fetch
 ```
